@@ -1,4 +1,4 @@
 # memoire2021
-collect tweet from twitterApi
-classified sentiment in tweet 
-create analytic dashborad 
+1. collect tweet from twitterApi
+2. classified sentiment in tweet 
+3. create analytic dashborad 
