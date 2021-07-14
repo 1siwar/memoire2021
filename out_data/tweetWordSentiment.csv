@@ -1,0 +1,432 @@
+,words,sentiments
+0,ware,"['fear', 'negative']"
+1,hate,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+2,protector,"['positive', 'trust']"
+3,watch,"['anticipation', 'fear']"
+4,time,['anticipation']
+5,protect,['positive']
+6,edition,['anticipation']
+7,tempered,['positive']
+8,impression,['positive']
+9,series,['trust']
+10,dust,['negative']
+11,visit,['positive']
+12,promise,"['joy', 'positive', 'trust']"
+13,provide,"['positive', 'trust']"
+14,reliable,"['positive', 'trust']"
+15,safe,"['joy', 'positive', 'trust']"
+16,weird,"['disgust', 'negative']"
+17,lightning,"['anger', 'fear', 'surprise']"
+18,storm,"['anger', 'negative']"
+19,production,"['anticipation', 'positive']"
+20,disruption,"['anger', 'fear', 'negative', 'surprise']"
+21,shortage,"['anger', 'fear', 'negative', 'sadness']"
+22,surgery,"['fear', 'sadness']"
+23,detention,"['negative', 'sadness']"
+24,wireless,"['anger', 'anticipation', 'positive', 'surprise']"
+25,charger,['positive']
+26,finally,"['anticipation', 'disgust', 'joy', 'positive', 'surprise', 'trust']"
+27,assistance,['positive']
+28,inquiry,"['anticipation', 'positive']"
+29,mobile,['anticipation']
+30,unique,"['positive', 'surprise']"
+31,solution,['positive']
+32,bang,"['anger', 'disgust', 'fear', 'negative', 'sadness', 'surprise']"
+33,theory,"['anticipation', 'trust']"
+34,justice,"['positive', 'trust']"
+35,league,['positive']
+36,march,['positive']
+37,appreciation,"['joy', 'positive', 'trust']"
+38,giving,['positive']
+39,catch,['surprise']
+40,start,['anticipation']
+41,plan,['anticipation']
+42,title,"['positive', 'trust']"
+43,dance,"['joy', 'positive', 'trust']"
+44,ruined,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+45,hearing,"['fear', 'negative']"
+46,pay,"['anticipation', 'joy', 'positive', 'trust']"
+47,penalty,"['anger', 'fear', 'negative', 'sadness']"
+48,prime,['positive']
+49,feature,['positive']
+50,launch,"['anticipation', 'positive']"
+51,diary,"['joy', 'positive', 'trust']"
+52,black,"['negative', 'sadness']"
+53,label,['trust']
+54,pride,"['joy', 'positive']"
+55,luck,"['anticipation', 'joy', 'positive', 'surprise']"
+56,shot,"['anger', 'fear', 'negative', 'sadness', 'surprise']"
+57,chance,['surprise']
+58,sir,"['positive', 'trust']"
+59,junk,['negative']
+60,improve,"['anticipation', 'joy', 'positive', 'trust']"
+61,top,"['anticipation', 'positive', 'trust']"
+62,twitch,['negative']
+63,change,['fear']
+64,gray,"['disgust', 'sadness']"
+65,horrible,"['anger', 'disgust', 'fear', 'negative']"
+66,customer,['positive']
+67,machine,['trust']
+68,love,"['joy', 'positive']"
+69,hell,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+70,content,"['joy', 'positive', 'trust']"
+71,birthday,"['anticipation', 'joy', 'positive', 'surprise']"
+72,reward,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+73,friend,"['joy', 'positive', 'trust']"
+74,wait,"['anticipation', 'negative']"
+75,boring,['negative']
+76,accurate,"['positive', 'trust']"
+77,good,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+78,leak,['negative']
+79,ill,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+80,deserve,"['anger', 'anticipation', 'positive', 'trust']"
+81,deal,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+82,store,"['anticipation', 'positive']"
+83,discussion,['positive']
+84,winning,"['anticipation', 'disgust', 'joy', 'positive', 'sadness', 'surprise', 'trust']"
+85,receiving,"['anticipation', 'joy', 'positive', 'surprise']"
+86,cad,"['anger', 'disgust', 'negative']"
+87,render,['positive']
+88,wan,"['fear', 'negative', 'sadness']"
+89,ambassador,"['positive', 'trust']"
+90,daily,['anticipation']
+91,older,['sadness']
+92,policy,['trust']
+93,praise,"['joy', 'positive', 'trust']"
+94,network,['anticipation']
+95,distracting,"['anger', 'anticipation', 'negative']"
+96,personal,['trust']
+97,fault,"['negative', 'sadness']"
+98,dumb,['negative']
+99,participation,['positive']
+100,demand,"['anger', 'negative']"
+101,commerce,['trust']
+102,hit,"['anger', 'negative']"
+103,build,['positive']
+104,peacock,['positive']
+105,baby,"['joy', 'positive']"
+106,blue,['sadness']
+107,worth,['positive']
+108,informer,['negative']
+109,supported,['positive']
+110,struggle,"['anger', 'fear', 'negative', 'sadness']"
+111,real,"['positive', 'trust']"
+112,cable,['surprise']
+113,money,"['anger', 'anticipation', 'joy', 'positive', 'surprise', 'trust']"
+114,inheritance,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+115,tax,"['negative', 'sadness']"
+116,terrible,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+117,shit,"['anger', 'disgust', 'negative']"
+118,thought,['anticipation']
+119,cage,"['negative', 'sadness']"
+120,coming,['anticipation']
+121,sponsor,"['positive', 'trust']"
+122,acceptable,['positive']
+123,shout,"['anger', 'surprise']"
+124,show,['trust']
+125,case,"['fear', 'negative', 'sadness']"
+126,pillow,['positive']
+127,true,"['joy', 'positive', 'trust']"
+128,console,"['positive', 'sadness']"
+129,model,['positive']
+130,bound,['negative']
+131,stupid,['negative']
+132,core,['positive']
+133,staggering,['negative']
+134,expenditure,['negative']
+135,trade,['trust']
+136,talk,['positive']
+137,improvement,"['joy', 'positive', 'trust']"
+138,battery,"['anger', 'negative']"
+139,epic,['positive']
+140,focus,['positive']
+141,confuse,['negative']
+142,peace,"['anticipation', 'joy', 'positive', 'trust']"
+143,reform,['positive']
+144,conspiracy,['fear']
+145,pool,['positive']
+146,wont,['anticipation']
+147,full,['positive']
+148,resident,['positive']
+149,tobacco,['negative']
+150,explain,"['positive', 'trust']"
+151,margin,"['negative', 'sadness']"
+152,small,['negative']
+153,lower,"['negative', 'sadness']"
+154,delay,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+155,wrong,['negative']
+156,hot,['anger']
+157,lost,"['negative', 'sadness']"
+158,hope,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+159,shopping,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+160,system,['trust']
+161,outsider,['fear']
+162,boy,"['disgust', 'negative']"
+163,shooting,"['anger', 'fear', 'negative']"
+164,leading,['trust']
+165,patent,['positive']
+166,copy,['negative']
+167,working,['positive']
+168,offer,['positive']
+169,tower,['positive']
+170,disheartened,"['negative', 'sadness']"
+171,official,['trust']
+172,protective,['positive']
+173,powerful,"['anger', 'anticipation', 'disgust', 'fear', 'joy', 'positive', 'trust']"
+174,boast,"['negative', 'positive']"
+175,ram,"['anger', 'anticipation', 'negative']"
+176,capture,['negative']
+177,solid,['positive']
+178,level,"['positive', 'trust']"
+179,liking,"['joy', 'positive', 'trust']"
+180,mouth,['surprise']
+181,ahead,['positive']
+182,enjoy,"['anticipation', 'joy', 'positive', 'trust']"
+183,visitor,"['anticipation', 'joy', 'positive']"
+184,war,"['fear', 'negative']"
+185,budget,['trust']
+186,mother,"['anticipation', 'joy', 'negative', 'positive', 'sadness', 'trust']"
+187,payment,['negative']
+188,gaining,['positive']
+189,rapid,['surprise']
+190,popularity,['positive']
+191,offering,['trust']
+192,rebate,['positive']
+193,flagship,['trust']
+194,cube,['trust']
+195,result,['anticipation']
+196,bad,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+197,worse,"['fear', 'negative', 'sadness']"
+198,beautiful,"['joy', 'positive']"
+199,gold,['positive']
+200,donkey,"['disgust', 'negative']"
+201,forward,['positive']
+202,extra,['positive']
+203,hide,['fear']
+204,mail,['anticipation']
+205,god,"['anticipation', 'fear', 'joy', 'positive', 'trust']"
+206,elegant,"['joy', 'positive']"
+207,rear,['negative']
+208,bank,['trust']
+209,received,['positive']
+210,ultimate,"['anticipation', 'sadness']"
+211,waterproof,['positive']
+212,error,"['negative', 'sadness']"
+213,sea,['positive']
+214,drone,['negative']
+215,share,"['anticipation', 'joy', 'positive', 'trust']"
+216,aura,['positive']
+217,ace,['positive']
+218,tomorrow,['anticipation']
+219,respect,"['anticipation', 'joy', 'positive', 'trust']"
+220,save,"['joy', 'positive', 'trust']"
+221,excruciating,"['fear', 'negative']"
+222,reason,['positive']
+223,cheap,['negative']
+224,underpaid,"['anger', 'negative', 'sadness']"
+225,gap,['negative']
+226,food,"['joy', 'positive', 'trust']"
+227,court,"['anger', 'anticipation', 'fear']"
+228,cute,['positive']
+229,hanging,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+230,cap,"['anticipation', 'trust']"
+231,regretting,"['negative', 'sadness']"
+232,mystic,['surprise']
+233,join,['positive']
+234,challenge,"['anger', 'fear', 'negative']"
+235,garbage,"['disgust', 'negative']"
+236,loo,"['disgust', 'negative']"
+237,assembly,"['positive', 'trust']"
+238,female,['positive']
+239,player,['negative']
+240,break,['surprise']
+241,technology,['positive']
+242,laser,"['positive', 'trust']"
+243,gear,['positive']
+244,broken,"['anger', 'fear', 'negative', 'sadness']"
+245,guard,"['fear', 'positive', 'trust']"
+246,guardian,"['positive', 'trust']"
+247,cushion,['positive']
+248,pad,['positive']
+249,happy,"['anticipation', 'joy', 'positive', 'trust']"
+250,fun,"['anticipation', 'joy', 'positive']"
+251,fact,['trust']
+252,durability,"['positive', 'trust']"
+253,butt,['negative']
+254,manufacturer,['positive']
+255,microscope,['trust']
+256,compatible,['positive']
+257,interested,"['disgust', 'positive', 'sadness']"
+258,president,"['positive', 'trust']"
+259,marvel,"['positive', 'surprise']"
+260,imitation,['negative']
+261,badly,"['negative', 'sadness']"
+262,perfect,"['anticipation', 'joy', 'positive', 'trust']"
+263,dinner,['positive']
+264,fee,"['anger', 'negative']"
+265,surprisingly,"['anticipation', 'surprise']"
+266,problem,"['fear', 'negative', 'sadness']"
+267,productivity,['positive']
+268,tired,['negative']
+269,honest,"['anger', 'disgust', 'fear', 'joy', 'positive', 'sadness', 'trust']"
+270,major,['positive']
+271,august,['positive']
+272,cover,['trust']
+273,enthusiast,"['anticipation', 'joy', 'positive', 'surprise']"
+274,blame,"['anger', 'disgust', 'negative']"
+275,defeat,['negative']
+276,gawk,['surprise']
+277,slop,"['disgust', 'negative']"
+278,director,"['positive', 'trust']"
+279,architecture,['trust']
+280,accident,"['fear', 'negative', 'sadness', 'surprise']"
+281,wonderful,"['joy', 'positive', 'surprise', 'trust']"
+282,guide,"['positive', 'trust']"
+283,crystal,['positive']
+284,liar,"['disgust', 'negative']"
+285,gain,"['anticipation', 'joy', 'positive']"
+286,exchange,"['positive', 'trust']"
+287,usual,"['positive', 'trust']"
+288,generosity,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+289,colossal,['positive']
+290,crap,"['disgust', 'negative']"
+291,recommend,"['positive', 'trust']"
+292,disable,"['fear', 'negative', 'sadness']"
+293,motion,['anticipation']
+294,unproductive,['negative']
+295,poverty,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+296,alleviation,['positive']
+297,scheme,['negative']
+298,teacher,"['positive', 'trust']"
+299,management,"['positive', 'trust']"
+300,suitable,['positive']
+301,damn,"['anger', 'disgust', 'negative']"
+302,actual,['positive']
+303,agreed,"['positive', 'trust']"
+304,cash,"['anger', 'anticipation', 'fear', 'joy', 'positive', 'trust']"
+305,paddle,"['anticipation', 'positive']"
+306,beam,"['joy', 'positive']"
+307,vent,['anger']
+308,cradle,"['anticipation', 'joy', 'positive', 'trust']"
+309,excellent,"['joy', 'positive', 'trust']"
+310,bloody,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+311,partner,['positive']
+312,sue,"['anger', 'negative', 'sadness']"
+313,honor,"['positive', 'trust']"
+314,building,['positive']
+315,strongly,['positive']
+316,credit,"['positive', 'trust']"
+317,benefit,['positive']
+318,music,"['joy', 'positive', 'sadness']"
+319,white,"['anticipation', 'joy', 'positive', 'trust']"
+320,force,"['anger', 'fear', 'negative']"
+321,bath,['positive']
+322,green,"['joy', 'positive', 'trust']"
+323,install,['anticipation']
+324,mad,"['anger', 'disgust', 'fear', 'negative', 'sadness']"
+325,legal,"['positive', 'trust']"
+326,information,['positive']
+327,track,['anticipation']
+328,constantly,['trust']
+329,clean,"['joy', 'positive', 'trust']"
+330,criminal,"['anger', 'disgust', 'fear', 'negative']"
+331,investigation,['anticipation']
+332,fraud,"['anger', 'negative']"
+333,scandal,"['fear', 'negative']"
+334,intuitive,['positive']
+335,action,['positive']
+336,reaffirm,['positive']
+337,importance,"['anticipation', 'positive']"
+338,nation,['trust']
+339,alliance,['trust']
+340,damage,"['anger', 'disgust', 'negative', 'sadness']"
+341,infinite,['positive']
+342,success,"['anticipation', 'joy', 'positive']"
+343,notification,['anticipation']
+344,gang,"['anger', 'fear', 'negative']"
+345,vote,"['anger', 'anticipation', 'joy', 'negative', 'positive', 'sadness', 'surprise', 'trust']"
+346,uncomfortable,['negative']
+347,complaint,"['anger', 'negative']"
+348,fight,"['anger', 'fear', 'negative']"
+349,glad,"['anticipation', 'joy', 'positive']"
+350,complain,"['anger', 'negative', 'sadness']"
+351,automatic,['trust']
+352,remove,"['anger', 'fear', 'negative', 'sadness']"
+353,crazy,"['anger', 'fear', 'negative', 'sadness']"
+354,warning,['fear']
+355,fixed,['trust']
+356,bug,"['disgust', 'fear', 'negative']"
+357,refuse,['negative']
+358,infinity,"['anticipation', 'joy', 'positive', 'trust']"
+359,trust,['trust']
+360,joke,['negative']
+361,genuine,"['positive', 'trust']"
+362,belt,"['anger', 'fear', 'negative']"
+363,warranty,"['positive', 'trust']"
+364,compliant,['positive']
+365,choice,['positive']
+366,stable,"['positive', 'trust']"
+367,sugar,['positive']
+368,agree,['positive']
+369,pick,['positive']
+370,drinking,['negative']
+371,lover,"['anticipation', 'joy', 'positive', 'trust']"
+372,phantom,"['fear', 'negative']"
+373,incredulous,"['anger', 'disgust', 'negative']"
+374,team,['trust']
+375,shame,"['disgust', 'fear', 'negative', 'sadness']"
+376,gigantic,['positive']
+377,continue,"['anticipation', 'positive', 'trust']"
+378,unprecedented,['surprise']
+379,lose,"['anger', 'disgust', 'fear', 'negative', 'sadness', 'surprise']"
+380,dungeon,"['fear', 'negative']"
+381,master,['positive']
+382,holy,['positive']
+383,suck,['negative']
+384,inferior,"['negative', 'sadness']"
+385,public,"['anticipation', 'positive']"
+386,library,['positive']
+387,award,"['anticipation', 'joy', 'positive', 'surprise', 'trust']"
+388,mar,['negative']
+389,amen,"['joy', 'positive', 'trust']"
+390,enlightenment,"['joy', 'positive', 'trust']"
+391,including,['positive']
+392,brother,"['positive', 'trust']"
+393,obvious,"['positive', 'trust']"
+394,slap,"['anger', 'negative', 'surprise']"
+395,dear,['positive']
+396,proud,"['anticipation', 'joy', 'positive', 'trust']"
+397,afraid,"['fear', 'negative']"
+398,competition,"['anticipation', 'negative']"
+399,revolution,"['anger', 'anticipation', 'fear', 'negative', 'positive', 'sadness', 'surprise']"
+400,mum,"['fear', 'negative']"
+401,cream,"['anticipation', 'joy', 'positive', 'surprise']"
+402,contact,['positive']
+403,superior,['positive']
+404,pop,"['negative', 'surprise']"
+405,swear,"['positive', 'trust']"
+406,calculator,"['positive', 'trust']"
+407,lucky,"['joy', 'positive', 'surprise']"
+408,elite,"['anticipation', 'joy', 'positive', 'trust']"
+409,convince,"['anticipation', 'positive', 'trust']"
+410,hype,"['anticipation', 'negative']"
+411,unintentionally,"['negative', 'surprise']"
+412,star,"['anticipation', 'joy', 'positive', 'trust']"
+413,chosen,['positive']
+414,patron,"['positive', 'trust']"
+415,electricity,['positive']
+416,delayed,['negative']
+417,vacation,"['anticipation', 'joy', 'positive']"
+418,vengeance,"['anger', 'negative']"
+419,proof,['trust']
+420,overpriced,"['anger', 'disgust', 'negative', 'sadness']"
+421,partnership,"['positive', 'trust']"
+422,hap,"['anticipation', 'surprise']"
+423,angry,"['anger', 'disgust', 'negative']"
+424,cool,['positive']
+425,explosive,"['anger', 'anticipation', 'fear', 'negative', 'surprise']"
+426,fawn,['negative']
+427,nerve,['positive']
+428,serene,"['negative', 'trust']"
+429,fore,['positive']
+430,merry,"['joy', 'positive']"
